@@ -5,7 +5,7 @@ I'm a software engineer passionate about building efficient, user-friendly, and 
 - 🌱 I’m currently diving deeper into **FastAPI** to build high-performance APIs.
 - 💞️ I’m looking to collaborate on open-source projects or innovative web applications.
 - 👀 My interests include backend development, system design, and cloud technologies.
-- 📫 You can reach me via [Email](mailto:janakiramayya@129.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+- 📫 You can reach me via [Email](mailto:janakiramayya@129.com) or connect with me on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/janaki-ramayya-pasagada-56871728b/)).
 
 ### 🛠️ My Tech Stack
 
