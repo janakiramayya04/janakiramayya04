@@ -44,21 +44,6 @@ I'm a software engineer passionate about building efficient, user-friendly, and 
   </a>
 </p>
 
-### Featured Project: Gemini Clone
-
-A conversational AI chat application built with React and powered by the Google Generative AI SDK.
-**Key Features:**
-* **Conversational Interface:** Chat with the Gemini model in a clean and simple UI.
-* **Recent Prompts:** Your chat history is saved for easy access.
-* **Powered by Gemini:** Uses the `gemini-1.5-flash` model for fast and accurate responses.
-
-**Technologies Used:**
-* React
-* Vite
-* Google Generative AI SDK
-* CSS
-
-[**View the code**](https://github.com/janakiramayya04/gemini-clone)
 <!---
 janakiramayya04/janakiramayya04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
